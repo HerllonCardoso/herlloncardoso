@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/HerllonCardoso/herlloncardoso/main/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://i.imgur.com/P2eHx9l.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/herlloncardoso">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Herllon%20Cardoso-blue"/>
