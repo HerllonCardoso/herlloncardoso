@@ -13,6 +13,6 @@
 
 ### Hey there! Welcome to my repositories! How is it going? 👋🚀
 
-- 💻 Node, ReactJS, React Native, Typescript and Flutter.
+- 💻 NodeJS, ReactJS, TypeScript, Kafka, Microservices, AWS, DevOps.
 - ✨ Always learning in order to be better than yesterday.
 
